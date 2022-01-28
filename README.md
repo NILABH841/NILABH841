@@ -5,7 +5,7 @@ I am 19 year old
 
 Skills: PYTHON / HTML 
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently learning CSS
 - 📫 How to reach me: nilabhshivam333@gmail.com 
 - ⚡ Fun fact: I am content creator 
 
