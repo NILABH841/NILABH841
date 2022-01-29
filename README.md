@@ -35,5 +35,6 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/NILABH841)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=NILABH841)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com?user=NILABH841)  
+
 
